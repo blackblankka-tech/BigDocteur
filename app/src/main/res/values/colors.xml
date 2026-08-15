@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF1E293B</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Professional Medical Palette 2026 -->
+    <color name="primary">#0F766E</color> <!-- Deep Teal - Trust & Professionalism -->
+    <color name="primary_light">#F0FDFA</color>
+    <color name="primary_variant">#134E4A</color>
+
+    <color name="secondary">#334155</color> <!-- Slate - Modernity -->
+
+    <color name="background">#F8FAFC</color> <!-- Off-white for less eye strain -->
+    <color name="surface">#FFFFFF</color>
+
+    <color name="text_title">#0F172A</color>
+    <color name="text_body">#475569</color>
+    <color name="text_label">#64748B</color>
+
+    <color name="accent_blue">#E0F2FE</color>
+    <color name="accent_teal">#CCFBF1</color>
+
+    <color name="success">#059669</color>
+    <color name="error">#E11D48</color>
+    <color name="warning">#D97706</color>
+
+    <color name="border_light">#F1F5F9</color>
+    <color name="border_medium">#E2E8F0</color>
+</resources>
